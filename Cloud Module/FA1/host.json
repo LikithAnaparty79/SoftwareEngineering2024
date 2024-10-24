@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "extensions": {
+    "http": {
+      "maxRequestLength": 3221225472 // 3 GB in bytes
+    }
+  },
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      },
+      "enableLiveMetricsFilters": true
+    }
+  }
+}
