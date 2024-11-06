@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SoftwareEngineering2024-Network-temp\Networking.csproj" />
     <ProjectReference Include="..\Networking\Networking.csproj" />
   </ItemGroup>
 
