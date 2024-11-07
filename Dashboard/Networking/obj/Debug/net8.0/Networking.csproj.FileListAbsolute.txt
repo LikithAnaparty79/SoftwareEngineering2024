@@ -1,4 +1,0 @@
-C:\Users\sreeh\Downloads\SEDashboard\SEDashboard\Networking\obj\Debug\net8.0\Networking.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sreeh\Downloads\SEDashboard\SEDashboard\Networking\obj\Debug\net8.0\Networking.AssemblyInfoInputs.cache
-C:\Users\sreeh\Downloads\SEDashboard\SEDashboard\Networking\obj\Debug\net8.0\Networking.AssemblyInfo.cs
-C:\Users\sreeh\Downloads\SEDashboard\SEDashboard\Networking\obj\Debug\net8.0\Networking.csproj.CoreCompileInputs.cache
