@@ -115,39 +115,7 @@ namespace Dashboard.ViewModel
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(property));
         }
-
-
-        //public void UpdateParticipantsList(List<UserDetails> users)
-        //{
-        //    UserDetailsList.Clear();
-        //    var userslist = IsHost ? _serverSessionManager.Users : _clientSessionManager.Users;
-
-        //    foreach (var currUser in userslist)
-        //    {
-        //        string currUserId = currUser.userId;
-        //        if (currUserId == "1")
-        //        {
-        //            string currUserName = currUser.userName + "  (Instructor)";
-
-        //                UserDetailsList.Add(currUser);
-
-        //        }
-        //    }
-
-        //    foreach (var currUser in users)
-        //    {
-        //        string currUserId = currUser.userId;
-        //        if (currUserId == "1")
-        //        {
-        //            continue;
-        //        }
-        //        string currUserName = currUser.userName;
-        //        UserDetailsList.Add(currUser);
-
-        //    }
-
-        //    return;
-        //}
+            
         private void UpdateUserListOnPropertyChanged(object sender, PropertyChangedEventArgs e)
         {
             if (e.PropertyName == nameof(_serverSessionManager.Users) || e.PropertyName == nameof(_clientSessionManager.Users))

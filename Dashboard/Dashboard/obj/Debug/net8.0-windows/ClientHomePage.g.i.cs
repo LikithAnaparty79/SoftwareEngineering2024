@@ -54,7 +54,7 @@ namespace Dashboard {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Dashboard;V1.0.0.0;component/clienthomepage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Dashboard;component/clienthomepage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ClientHomePage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

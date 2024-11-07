@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v8.0": {
       "Dashboard/1.0.0": {
         "dependencies": {
-          "Networking": "1.0.0"
+          "Network": "1.0.0"
         },
         "runtime": {
           "Dashboard.dll": {}
         }
       },
-      "Networking/1.0.0": {
+      "Network/1.0.0": {
         "runtime": {
-          "Networking.dll": {
+          "Network.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Networking/1.0.0": {
+    "Network/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

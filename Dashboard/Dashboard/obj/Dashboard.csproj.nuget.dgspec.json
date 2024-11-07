@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sabar\\SEDashboard\\Dashboard\\Dashboard.csproj": {}
+    "C:\\SoftwareEnGG\\SEDashboard\\Dashboard\\Dashboard.csproj": {}
   },
   "projects": {
-    "C:\\sabar\\SEDashboard\\Dashboard\\Dashboard.csproj": {
+    "C:\\SoftwareEnGG\\SEDashboard\\Dashboard\\Dashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sabar\\SEDashboard\\Dashboard\\Dashboard.csproj",
+        "projectUniqueName": "C:\\SoftwareEnGG\\SEDashboard\\Dashboard\\Dashboard.csproj",
         "projectName": "Dashboard",
-        "projectPath": "C:\\sabar\\SEDashboard\\Dashboard\\Dashboard.csproj",
-        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
-        "outputPath": "C:\\sabar\\SEDashboard\\Dashboard\\obj\\",
+        "projectPath": "C:\\SoftwareEnGG\\SEDashboard\\Dashboard\\Dashboard.csproj",
+        "packagesPath": "C:\\Users\\sabar\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftwareEnGG\\SEDashboard\\Dashboard\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sabar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\sabar\\SEDashboard\\Networking\\Networking.csproj": {
-                "projectPath": "C:\\sabar\\SEDashboard\\Networking\\Networking.csproj"
-              },
-              "C:\\SoftwareEngineering2024-Network-temp\\Networking.csproj": {
-                "projectPath": "C:\\SoftwareEngineering2024-Network-temp\\Networking.csproj"
+              "C:\\SoftwareEnGG\\SEDashboard\\Networking\\Network.csproj": {
+                "projectPath": "C:\\SoftwareEnGG\\SEDashboard\\Networking\\Network.csproj"
               }
             }
           }
@@ -79,21 +71,17 @@
         }
       }
     },
-    "C:\\sabar\\SEDashboard\\Networking\\Networking.csproj": {
+    "C:\\SoftwareEnGG\\SEDashboard\\Networking\\Network.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sabar\\SEDashboard\\Networking\\Networking.csproj",
-        "projectName": "Networking",
-        "projectPath": "C:\\sabar\\SEDashboard\\Networking\\Networking.csproj",
-        "packagesPath": "C:\\Users\\sreeh\\.nuget\\packages\\",
-        "outputPath": "C:\\sabar\\SEDashboard\\Networking\\obj\\",
+        "projectUniqueName": "C:\\SoftwareEnGG\\SEDashboard\\Networking\\Network.csproj",
+        "projectName": "Network",
+        "projectPath": "C:\\SoftwareEnGG\\SEDashboard\\Networking\\Network.csproj",
+        "packagesPath": "C:\\Users\\sabar\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftwareEnGG\\SEDashboard\\Networking\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sreeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sabar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +89,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -138,6 +125,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"

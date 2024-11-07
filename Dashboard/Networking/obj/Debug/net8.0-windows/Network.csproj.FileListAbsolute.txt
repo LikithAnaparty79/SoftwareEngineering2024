@@ -1,0 +1,11 @@
+C:\SoftwareEnGG\SEDashboard\Networking\bin\Debug\net8.0-windows\Network.deps.json
+C:\SoftwareEnGG\SEDashboard\Networking\bin\Debug\net8.0-windows\Network.dll
+C:\SoftwareEnGG\SEDashboard\Networking\bin\Debug\net8.0-windows\Network.pdb
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\Network.AssemblyInfoInputs.cache
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\Network.AssemblyInfo.cs
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\Network.csproj.CoreCompileInputs.cache
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\Network.dll
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\refint\Network.dll
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\Network.pdb
+C:\SoftwareEnGG\SEDashboard\Networking\obj\Debug\net8.0-windows\ref\Network.dll

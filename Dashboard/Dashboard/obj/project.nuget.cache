@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ux8249E6qSg=",
-  "success": false,
-  "projectFilePath": "C:\\sabar\\SEDashboard\\Dashboard\\Dashboard.csproj",
+  "dgSpecHash": "UykCpHWD6mM=",
+  "success": true,
+  "projectFilePath": "C:\\SoftwareEnGG\\SEDashboard\\Dashboard\\Dashboard.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\SoftwareEngineering2024-Network-temp\\Networking.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\SoftwareEngineering2024-Network-temp\\Networking.csproj",
-      "targetGraphs": [
-        "net8.0-windows7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

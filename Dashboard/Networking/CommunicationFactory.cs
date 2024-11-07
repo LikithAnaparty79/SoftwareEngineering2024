@@ -1,6 +1,6 @@
+﻿using Networking.Communication;
 using System;
 using System.Diagnostics;
-using Networking.Communication;
 
 namespace Networking
 {
@@ -32,4 +32,3 @@ namespace Networking
         }
     }
 }
-
