@@ -1,0 +1,13 @@
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\bin\Debug\net8.0\SECloud.deps.json
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\bin\Debug\net8.0\SECloud.dll
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\bin\Debug\net8.0\SECloud.pdb
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.csproj.AssemblyReference.cache
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.AssemblyInfoInputs.cache
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.AssemblyInfo.cs
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.csproj.CoreCompileInputs.cache
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.sourcelink.json
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.dll
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\refint\SECloud.dll
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\SECloud.pdb
+C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\obj\Debug\net8.0\ref\SECloud.dll

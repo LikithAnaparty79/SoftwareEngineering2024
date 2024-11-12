@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SECloud</id>
+    <version>1.0.0</version>
+    <authors>SECloud</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e7e7520ad972901168f9f52e2cd9716331a12e18" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Azure.Storage.Blobs" version="12.22.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http.Json" version="8.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ARNAV\Desktop\Software Engineering\Lab Project\Demos\Development\SECloud\SECloud\bin\Debug\net8.0\SECloud.dll" target="lib\net8.0\SECloud.dll" />
+  </files>
+</package>
