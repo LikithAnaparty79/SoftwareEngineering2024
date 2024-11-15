@@ -112,3 +112,13 @@ C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\ref\Screentest.dll
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\Screentest\bin\Debug\net8.0-windows\Castle.Core.dll
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\Screentest\bin\Debug\net8.0-windows\Moq.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_Screentest
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.csproj.AssemblyReference.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.AssemblyInfoInputs.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.AssemblyInfo.cs
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.csproj.CoreCompileInputs.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.sourcelink.json
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\refint\Screentest.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\Screentest\obj\Debug\net8.0-windows\Screentest.pdb

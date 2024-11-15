@@ -4832,11 +4832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\SE-ScreenShare\\source\\repos\\ScreenShare\\ScreenShare\\ScreenShare.csproj",
+      "projectUniqueName": "F:\\Update 8-oct\\SE-ScreenShare\\source\\repos\\ScreenShare\\ScreenShare\\ScreenShare.csproj",
       "projectName": "ScreenShare",
-      "projectPath": "C:\\Users\\hp\\Desktop\\SE-ScreenShare\\source\\repos\\ScreenShare\\ScreenShare\\ScreenShare.csproj",
+      "projectPath": "F:\\Update 8-oct\\SE-ScreenShare\\source\\repos\\ScreenShare\\ScreenShare\\ScreenShare.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\SE-ScreenShare\\source\\repos\\ScreenShare\\ScreenShare\\obj\\",
+      "outputPath": "F:\\Update 8-oct\\SE-ScreenShare\\source\\repos\\ScreenShare\\ScreenShare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4853,8 +4853,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\SoftwareEngineering2024\\Network\\Network.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\SoftwareEngineering2024\\Network\\Network.csproj"
+            "F:\\Update 8-oct\\SoftwareEngineering2024\\Network\\Network.csproj": {
+              "projectPath": "F:\\Update 8-oct\\SoftwareEngineering2024\\Network\\Network.csproj"
             }
           }
         }

@@ -6,6 +6,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text.Json;
 using System.Timers;
+using System.Net.Sockets;
+using Networking.Queues;
+using System.Net;
 
 namespace ScreenShare.Server
 {
@@ -26,7 +29,7 @@ namespace ScreenShare.Server
         /// The networking object used to subscribe to the networking module
         /// and to send the packets to the clients.
         
-        private readonly ICommunicator? _communicator;
+        public  ICommunicator? _communicator;
 
         
         /// The subscriber which should be notified when subscribers list change.
@@ -55,10 +58,9 @@ namespace ScreenShare.Server
             if (!isDebugging)
             {
                 // Get an instance of a communicator object.
-                _communicator = CommunicationFactory.GetCommunicator(isClientSide: false);
-
-                // Subscribe to the networking module for packets.
-                _communicator.Subscribe(Utils.ModuleIdentifier, this, isHighPriority: true);
+                _communicator = CommunicationFactory.GetCommunicator(false);
+                _communicator.Subscribe(Utils.ModuleIdentifier, this, true);
+                _communicator.Start();
             }
 
             // Initialize the rest of the fields.
@@ -108,6 +110,7 @@ namespace ScreenShare.Server
                 ClientDataHeader header = Enum.Parse<ClientDataHeader>(packet.Header);
                 string clientData = packet.Data;
 
+                Trace.WriteLine(header);
                 // Based on the packet header, do further processing.
                 switch (header)
                 {
@@ -133,17 +136,62 @@ namespace ScreenShare.Server
             }
         }
 
-        
+
         /// Implements "INotificationHandler". Not required by the screen share server module.
-    
+
+        protected string GetAddressFromSocket(TcpClient socket, bool otherEnd = false)
+        {
+            IPEndPoint endPoint = null;
+            if (!otherEnd)
+            {
+                endPoint = (IPEndPoint?)socket.Client.LocalEndPoint;
+            }
+            else
+            {
+                endPoint = (IPEndPoint?)socket.Client.RemoteEndPoint;
+            }
+            if (endPoint == null)
+            {
+                return "";
+            }
+            string ipAddress = endPoint.Address.MapToIPv4().ToString();
+            string port = endPoint.Port.ToString();
+
+            // using underscores since apparently fileNames cannot have ':'
+            string address = GetConcatenatedAddress(ipAddress, port);
+            return address;
+        }
+
+        protected string GetConcatenatedAddress(string ipAddress, string port)
+        {
+            return $"{ipAddress}_{port}";
+        }
+
+
 #pragma warning disable CA1822 // Mark members as static.
-        public void OnClientJoined<T>(T _) { }
+        public void OnClientJoined(TcpClient socket) {
+            Trace.WriteLine("aeaeaeaeaeaeae");
+            string address = GetAddressFromSocket(socket, otherEnd: true);
+            Trace.WriteLine(address);
+            // _logger.Log($"Client Joined : {address}");
+            Console.WriteLine($"Client Joined : {address}");
+            /*  lock (_syncLock)
+              {
+                  _clientDictionary.Add(address, socket);
+              }*/
+            string serverIP = address.Split('_')[0];
+            string serverPort = address.Split('_')[1];
+            _communicator.AddClient(serverIP, socket);
+            
+          //  _fileReceiverServer.AddClient($"{serverIP}:{serverPort}", socket);
+
+        }
 #pragma warning restore CA1822 // Mark members as static.
 
-        
+
         /// Implements "INotificationHandler". It is invoked by the Networking Communicator
         /// when a client leaves the meeting.
-        
+
         public void OnClientLeft(string clientId)
         {
             Debug.Assert(_subscribers != null, Utils.GetDebugMessage("_subscribers is found null"));
@@ -206,6 +254,7 @@ namespace ScreenShare.Server
             Debug.Assert(clientIds != null, Utils.GetDebugMessage("list of client Ids is found null"));
 
             // If there are no clients to broadcast to.
+            Trace.WriteLine("cccccccccccccccccccccccccc");
             if (clientIds.Count == 0) return;
 
             // Validate header value.
@@ -222,11 +271,14 @@ namespace ScreenShare.Server
             // Serialize the data to send.
             try
             {
+
+                Trace.WriteLine("fffffff");
+
                 int product = numRowsColumns.Rows * numRowsColumns.Cols;
                 string serializedData = JsonSerializer.Serialize(product);
 
                 // Create the data packet to send.
-                DataPacket packet = new("1", "Server", headerVal, serializedData, false, false, null);
+                DataPacket packet = new("2", "Server", headerVal, serializedData, false, false, null);
 
                 // Serialize the data packet to send to clients.
                 string serializedPacket = JsonSerializer.Serialize(packet);
@@ -234,6 +286,7 @@ namespace ScreenShare.Server
                 // Send data packet to all the clients mentioned.
                 foreach (string clientId in clientIds)
                 {
+                    Trace.WriteLine("fggggg");
                     _communicator.Send(serializedPacket, Utils.ModuleIdentifier, clientId);
                 }
             }
@@ -294,8 +347,9 @@ namespace ScreenShare.Server
         private void RegisterClient(string clientId, string clientName)
         {
             Debug.Assert(_subscribers != null, Utils.GetDebugMessage("_subscribers is found null"));
-
+            
             // Acquire lock because timer threads could also execute simultaneously.
+           
             lock (_subscribers)
             {
                 // Check if the clientId is present in the screen sharers list.
@@ -379,6 +433,8 @@ namespace ScreenShare.Server
  
         private void PutImage(string clientId, string image, List<PixelDifference> change, bool full)
         {
+            Trace.WriteLine("aaaaaaaaaaaaaaaaaaaaa");
+                             
             Debug.Assert(_subscribers != null, Utils.GetDebugMessage("_subscribers is found null"));
 
             // Acquire lock because timer threads could also execute simultaneously.

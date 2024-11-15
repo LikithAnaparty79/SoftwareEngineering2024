@@ -43,8 +43,13 @@
         </ControlTemplate>
     </Page.Resources>
 
-    <!-- Create a grid to show everything within it-->
-    <Grid Background = "#202124">
+    
+    <!-- The update code is below -->
+
+    <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" PreviewMouseWheel="OnMouseWheelScrolled">
+        
+    <!-- Create a grid to show everything within it-->    
+        <Grid Background = "#202124">
 
         <!-- Divide the grid into 2 rows of 16:1 ratio -->
         <Grid.RowDefinitions >
@@ -255,4 +260,6 @@
             </ItemsControl>
         </StackPanel>
     </Grid >
+
+    </ScrollViewer>
 </Page>

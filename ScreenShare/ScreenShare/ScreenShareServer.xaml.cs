@@ -94,6 +94,31 @@ namespace ScreenShare
 
             Trace.WriteLine(Utils.GetDebugMessage("Unpin Button Clicked", withTimeStamp: true));
         }
+
+        private void OnMouseWheelScrolled(object sender, MouseWheelEventArgs e)
+        {
+            ScreenshareServerViewModel? viewModel = this.DataContext as ScreenshareServerViewModel;
+            Debug.Assert(viewModel != null, Utils.GetDebugMessage("View Model could not be created"));
+
+            if (e.Delta > 0)
+            {
+                // Scroll up - move to the previous page if possible
+                if (viewModel.CurrentPage > 1)
+                {
+                    viewModel.RecomputeCurrentWindowClients(viewModel.CurrentPage - 1);
+                    Trace.WriteLine(Utils.GetDebugMessage("Scrolled Up - Moved to Previous Page", withTimeStamp: true));
+                }
+            }
+            else if (e.Delta < 0)
+            {
+                // Scroll down - move to the next page if possible
+                if (viewModel.CurrentPage < viewModel.TotalPages)
+                {
+                    viewModel.RecomputeCurrentWindowClients(viewModel.CurrentPage + 1);
+                    Trace.WriteLine(Utils.GetDebugMessage("Scrolled Down - Moved to Next Page", withTimeStamp: true));
+                }
+            }
+        }
     }
 }
 

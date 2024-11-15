@@ -101,7 +101,7 @@ namespace ScreenShare.Server
         {
             // Get the instance of the underlying data model.
             _model = ScreenshareServer.GetInstance(this, isDebugging);
-
+            
             // Always display the first page initially.
             _currentPage = InitialPageNumber;
 

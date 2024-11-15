@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLS0mHvV6zc=",
+  "dgSpecHash": "p/CJJ7A2mz4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\SE-ScreenShare\\source\\repos\\ScreenShare\\Screentest\\Screentest.csproj",
+  "projectFilePath": "F:\\Update 8-oct\\SE-ScreenShare\\source\\repos\\ScreenShare\\Screentest\\Screentest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

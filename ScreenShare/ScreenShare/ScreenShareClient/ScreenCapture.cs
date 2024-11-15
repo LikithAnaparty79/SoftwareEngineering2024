@@ -89,7 +89,7 @@ namespace ScreenShare.Client
                                 Bitmap img = _screenshot.MakeScreenshot();
                                 if (img != null)
                                 {
-                                    Thread.Sleep(150);
+                                    Thread.Sleep(200);
                                     _capturedFrame.Enqueue(img);
                                 }
                             }

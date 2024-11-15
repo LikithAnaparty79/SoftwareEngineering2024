@@ -13,8 +13,6 @@ C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debu
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\System.Drawing.Common.dll
-C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\Network.dll
-C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\Network.pdb
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareClient.g.cs
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare_MarkupCompile.cache
@@ -34,3 +32,35 @@ C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debu
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ref\ScreenShare.dll
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareServer.g.cs
 C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareServer.baml
+C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\Network.dll
+C:\Users\hp\Desktop\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\Network.pdb
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\ScreenShare.exe
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\ScreenShare.deps.json
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\ScreenShare.runtimeconfig.json
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\ScreenShare.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\ScreenShare.pdb
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\SharpDX.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\Network.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\bin\Debug\net8.0-windows\Network.pdb
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.csproj.AssemblyReference.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareClient.g.cs
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareServer.g.cs
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare_MarkupCompile.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare_MarkupCompile.lref
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareClient.baml
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareServer.baml
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.g.resources
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.GeneratedMSBuildEditorConfig.editorconfig
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.AssemblyInfoInputs.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.AssemblyInfo.cs
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.csproj.CoreCompileInputs.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.sourcelink.json
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenSh.27B113CA.Up2Date
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\refint\ScreenShare.dll
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.pdb
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.genruntimeconfig.cache
+F:\Update 8-oct\SE-ScreenShare\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ref\ScreenShare.dll

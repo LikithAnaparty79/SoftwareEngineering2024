@@ -28,6 +28,8 @@
     <ProjectReference Include="..\..\..\..\..\SoftwareEngineering2024\Network\Network.csproj" />
   </ItemGroup>
 
+ 
+
   <ItemGroup>
     <Resource Include="ScreenShareAssets\NextPageButton.png" />
     <Resource Include="ScreenShareAssets\PreviousPageButton.png" />

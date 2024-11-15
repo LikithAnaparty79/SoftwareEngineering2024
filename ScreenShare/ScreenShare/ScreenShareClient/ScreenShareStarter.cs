@@ -32,8 +32,8 @@ namespace ScreenShare.Client
         private readonly ScreenProcessor _processor;
 
         // Name and Id of the current client user
-        private string? _name = "shivanand";
-        private string? _id = "1";
+        private string? _name = "";
+        private string? _id = "";
 
         // Tokens added to be able to stop the thread execution
         private bool _confirmationCancellationToken;
@@ -54,7 +54,7 @@ namespace ScreenShare.Client
         /// SharedClientScreen which represents the maximum time to wait for the arrival
         /// of the packet from the client with the CONFIRMATION header.
         
-        public static double Timeout { get; } = 20 * 1000;
+        public static double Timeout { get; } = 200 * 1000;
 
         
         /// Setting up the ScreenCapturer and ScreenProcessor Class
@@ -67,8 +67,9 @@ namespace ScreenShare.Client
             _processor = new ScreenProcessor(_capturer);
             if (!isDebugging)
             {
-                _communicator = CommunicationFactory.GetCommunicator();
+                _communicator = CommunicationFactory.GetCommunicator(true);
                 _communicator.Subscribe(Utils.ModuleIdentifier, this, true);
+                _communicator.Start("192.168.100.227", "56264");
             }
 
             try
@@ -115,6 +116,11 @@ namespace ScreenShare.Client
             _screenShareClient._viewModel = viewModel;
             Trace.WriteLine(Utils.GetDebugMessage("Successfully created an instance of ScreenshareClient", withTimeStamp: true));
             return _screenShareClient;
+        }
+        public void SetUserDetails(string username , string id)
+        {
+            _name = username;
+            _id = id;
         }
 
         
@@ -241,8 +247,11 @@ namespace ScreenShare.Client
                 string serializedData = JsonSerializer.Serialize(dataPacket);
 
                 Trace.WriteLine(Utils.GetDebugMessage($"Sent frame {cnt} of size {serializedData.Length}", withTimeStamp: true));
-                _communicator.Send(serializedData, Utils.ModuleIdentifier, null);
-                cnt++;
+                if (dataPacket != null || dataPacket.Data== null)
+                {
+                    _communicator.Send(serializedData, Utils.ModuleIdentifier, null);
+                    cnt++;
+                }
             }
         }
 
