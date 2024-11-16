@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEProjectUX\\UXModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3F13A2-FC0C-486D-B521-D8CF33A44A4F}|SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj|c:\\users\\seprojectux\\uxmodule\\softwareengineering2024-updaternew\\updater\\updater.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F3F13A2-FC0C-486D-B521-D8CF33A44A4F}|SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj|solutionrelative:softwareengineering2024-updaternew\\updater\\updater.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\uxmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\uxmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073E11D5-E628-48C3-BCE4-87E669A1A68C}|SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj|c:\\users\\seprojectux\\uxmodule\\softwareengineering2024-updaternew\\viewmodels\\viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{073E11D5-E628-48C3-BCE4-87E669A1A68C}|SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj|solutionrelative:softwareengineering2024-updaternew\\viewmodels\\viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323F39B9-23E5-4328-A818-C5F02A8EFB44}|WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj|c:\\users\\seprojectux\\uxmodule\\whiteboardgui-sarthak_tests\\whiteboardgui\\whiteboardgui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{323F39B9-23E5-4328-A818-C5F02A8EFB44}|WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj|solutionrelative:whiteboardgui-sarthak_tests\\whiteboardgui\\whiteboardgui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D42013-7799-4830-8971-9CD5D20CD889}|SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj|c:\\users\\seprojectux\\uxmodule\\softwareengineering2024-updaternew\\toolinterface\\toolinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95D42013-7799-4830-8971-9CD5D20CD889}|SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj|solutionrelative:softwareengineering2024-updaternew\\toolinterface\\toolinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1194CD-06FF-4DAF-B77F-9DFB8C31439B}|Networking\\Networking.csproj|c:\\users\\seprojectux\\uxmodule\\networking\\networking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E1194CD-06FF-4DAF-B77F-9DFB8C31439B}|Networking\\Networking.csproj|solutionrelative:networking\\networking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6629484-CB60-445C-9B5F-C417B5E59B1C}|FileCloner\\FileCloner.csproj|c:\\users\\seprojectux\\uxmodule\\filecloner\\filecloner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6629484-CB60-445C-9B5F-C417B5E59B1C}|FileCloner\\FileCloner.csproj|solutionrelative:filecloner\\filecloner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\updaterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\updaterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\Services\\NetworkingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\uploadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\uploadpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\updaterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\updaterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\fileclonerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\fileclonerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\serverhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\serverhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\screenshareclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\screenshareclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\splashscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\splashscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91901\\Downloads\\SplashScreen.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\seprojectux\\uxmodule\\uxmodule\\model\\server_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\model\\server_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\ViewModel\\MainPageViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ServerViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ITool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\Tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\LogServiceViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\FileChangeNotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ToolListViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ClientViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\IToolAssemblyLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileMetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataComparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\ToolAssemblyLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DataPacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\BinarySemaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\AppConstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.FileWatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\Constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Views\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\FileMetaData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\DiffGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\11210\\FileCloner-main\\FileCloner\\Dictionaries\\Dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.401\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAtwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-16T08:29:50.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModels",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "RelativeDocumentMoniker": "SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "RelativeToolTip": "SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:29:28.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToolInterface",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj",
+              "RelativeDocumentMoniker": "SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj",
+              "RelativeToolTip": "SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:29:10.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Updater",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "RelativeDocumentMoniker": "SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "RelativeToolTip": "SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:28:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WhiteboardGUI",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "RelativeDocumentMoniker": "WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "RelativeToolTip": "WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:24:31.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UXModule.csproj",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\UXModule.csproj",
+              "RelativeDocumentMoniker": "UXModule\\UXModule.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\UXModule.csproj",
+              "RelativeToolTip": "UXModule\\UXModule.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T03:05:56.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileCloner",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\FileCloner\\FileCloner.csproj",
+              "RelativeDocumentMoniker": "FileCloner\\FileCloner.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\FileCloner\\FileCloner.csproj",
+              "RelativeToolTip": "FileCloner\\FileCloner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:29:07.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "UXModule\\Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:13:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WhiteboardGUI.csproj",
+              "DocumentMoniker": "C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "RelativeDocumentMoniker": "..\\..\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "ToolTip": "C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "RelativeToolTip": "..\\..\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\WhiteboardGUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T07:47:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Networking",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\Networking\\Networking.csproj",
+              "RelativeDocumentMoniker": "Networking\\Networking.csproj",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\Networking\\Networking.csproj",
+              "RelativeToolTip": "Networking\\Networking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T08:16:00.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdaterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\UpdaterPage.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\Views\\UpdaterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\UpdaterPage.xaml.cs",
+              "RelativeToolTip": "UXModule\\Views\\UpdaterPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:57:03.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NetworkingService.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\Services\\NetworkingService.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\Services\\NetworkingService.cs",
+              "ToolTip": "C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\Services\\NetworkingService.cs",
+              "RelativeToolTip": "..\\..\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\Services\\NetworkingService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:41:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\ViewModel\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\ViewModel\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\ViewModel\\MainPageViewModel.cs",
+              "RelativeToolTip": "..\\..\\11210\\WhiteboardGUI-sarthak_tests\\WhiteboardGUI\\ViewModel\\MainPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:47:51.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Utils.cs",
+              "RelativeDocumentMoniker": "UXModule\\Utils.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Utils.cs",
+              "RelativeToolTip": "UXModule\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:15:07.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ChatPage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ChatPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\ChatPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T03:53:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ServerViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ServerViewModel.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ServerViewModel.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ServerViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:33.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ViewModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T02:59:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T23:47:56.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Updater.csproj",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Updater.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T03:05:27.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ChatPage.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ChatPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ChatPage.xaml.cs",
+              "RelativeToolTip": "UXModule\\Views\\ChatPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:53:41.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITool.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ITool.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ITool.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ITool.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ITool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:04:55.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\Tool.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\Tool.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\Tool.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\Tool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LogServiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\LogServiceViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\LogServiceViewModel.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\LogServiceViewModel.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\LogServiceViewModel.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAA5wGEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:02.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FileChangeNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\FileChangeNotifier.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\FileChangeNotifier.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\FileChangeNotifier.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\FileChangeNotifier.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:59:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ToolListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ToolListViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ToolListViewModel.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ToolListViewModel.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ToolListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:40.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ClientViewModel.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\ViewModels\\ClientViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:59:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IToolAssemblyLoader.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\IToolAssemblyLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\IToolAssemblyLoader.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\IToolAssemblyLoader.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\IToolAssemblyLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:01:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FileMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileMetadata.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileMetadata.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileMetadata.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileMetadata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:01:43.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FileContent.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileContent.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileContent.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileContent.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\FileContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:01:40.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DirectoryMetadataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataGenerator.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataGenerator.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataGenerator.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:58.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DirectoryMetadataComparer.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataComparer.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataComparer.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataComparer.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DirectoryMetadataComparer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwHIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Utils.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Utils.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Utils.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:01:51.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ToolAssemblyLoader.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\ToolAssemblyLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\ToolAssemblyLoader.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\ToolAssemblyLoader.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\ToolAssemblyLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:01:49.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Server.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Server.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Server.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:01:47.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataPacket.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DataPacket.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DataPacket.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DataPacket.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\DataPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Client.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Client.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Client.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:52.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BinarySemaphore.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\BinarySemaphore.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\BinarySemaphore.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\BinarySemaphore.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\BinarySemaphore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\AppConstants.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\AppConstants.cs",
+              "ToolTip": "C:\\Users\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\AppConstants.cs",
+              "RelativeToolTip": "..\\..\\11210\\SoftwareEngineering2024-UpdaterNew\\Updater\\AppConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:00:48.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UploadPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\UploadPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\UploadPage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\UploadPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\UploadPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T02:57:00.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdaterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\UpdaterPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\UpdaterPage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\UpdaterPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\UpdaterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T02:55:47.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "UXModule\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABcAAAAAcJ7nmwvovx0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:11:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MainPageViewModel.FileWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.FileWatcher.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.FileWatcher.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.FileWatcher.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.FileWatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:29:43.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T22:19:02.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\Constants.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\Constants.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\Constants.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:29:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:28:58.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Server.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Server.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Server.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:54.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Message.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Message.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Message.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:52.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Client.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Client.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Client.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\NetworkService\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:38.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Root.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Root.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Root.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Root.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:34.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Views\\MainPage.xaml",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T02:18:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Node.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Node.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Node.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:31.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FileMetaData.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\FileMetaData.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\FileMetaData.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\FileMetaData.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\FileMetaData.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:27.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DiffGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\DiffGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\DiffGenerator.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\DiffGenerator.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Models\\DiffGenerator\\DiffGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:23.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FileClonerLogger.cs",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T02:23:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Dictionary1.xaml",
+              "DocumentMoniker": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Dictionaries\\Dictionary1.xaml",
+              "RelativeDocumentMoniker": "..\\..\\11210\\FileCloner-main\\FileCloner\\Dictionaries\\Dictionary1.xaml",
+              "ToolTip": "C:\\Users\\11210\\FileCloner-main\\FileCloner\\Dictionaries\\Dictionary1.xaml",
+              "RelativeToolTip": "..\\..\\11210\\FileCloner-main\\FileCloner\\Dictionaries\\Dictionary1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T02:23:06.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileClonerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\FileClonerPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\FileClonerPage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\FileClonerPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\FileClonerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T02:17:54.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerHomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ServerHomePage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ServerHomePage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ServerHomePage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\ServerHomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T23:15:00.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SplashScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\SplashScreen.xaml",
+              "RelativeDocumentMoniker": "UXModule\\SplashScreen.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\SplashScreen.xaml",
+              "RelativeToolTip": "UXModule\\SplashScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T00:43:58.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SplashScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\91901\\Downloads\\SplashScreen.xaml",
+              "RelativeDocumentMoniker": "..\\..\\91901\\Downloads\\SplashScreen.xaml",
+              "ToolTip": "C:\\Users\\91901\\Downloads\\SplashScreen.xaml",
+              "RelativeToolTip": "..\\..\\91901\\Downloads\\SplashScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T00:43:44.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SplashScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\SplashScreen.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\SplashScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\SplashScreen.xaml.cs",
+              "RelativeToolTip": "UXModule\\SplashScreen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:44:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "UXModule\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T00:31:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\App.xaml",
+              "RelativeDocumentMoniker": "UXModule\\App.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\App.xaml",
+              "RelativeToolTip": "UXModule\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T00:45:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UXModule\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAACgd/eh3bsmwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:46:44.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScreenShareClient.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ScreenShareClient.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ScreenShareClient.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\ScreenShareClient.xaml",
+              "RelativeToolTip": "UXModule\\Views\\ScreenShareClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T00:48:49.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Views\\HomePage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T23:16:32.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Server_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Model\\Server_Dashboard.cs",
+              "RelativeDocumentMoniker": "UXModule\\Model\\Server_Dashboard.cs",
+              "ToolTip": "C:\\Users\\SEProjectUX\\UXModule\\UXModule\\Model\\Server_Dashboard.cs",
+              "RelativeToolTip": "UXModule\\Model\\Server_Dashboard.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T23:11:35.441Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
