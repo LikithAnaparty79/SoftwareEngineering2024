@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Lab Project\\Demos\\Development\\FA1\\CloudUnitTesting\\CloudUnitTesting.csproj": {}
+    "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\CloudUnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Lab Project\\Demos\\Development\\FA1\\CloudUnitTesting\\CloudUnitTesting.csproj": {
+    "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\CloudUnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Lab Project\\Demos\\Development\\FA1\\CloudUnitTesting\\CloudUnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\CloudUnitTesting.csproj",
         "projectName": "CloudUnitTesting",
-        "projectPath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Lab Project\\Demos\\Development\\FA1\\CloudUnitTesting\\CloudUnitTesting.csproj",
+        "projectPath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\CloudUnitTesting.csproj",
         "packagesPath": "C:\\Users\\ARNAV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Lab Project\\Demos\\Development\\FA1\\CloudUnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\ARNAV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,32 +42,57 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.11.1, )"
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.14.0, )"
+              "version": "[4.2.2, )"
             },
             "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.9.0, )"
+              "version": "[4.4.0, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.5.0, )"
+              "version": "[4.6.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.2, )"
             }
           },
           "imports": [
@@ -83,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

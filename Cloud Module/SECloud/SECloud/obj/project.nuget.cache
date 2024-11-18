@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQzK3yvj7Uc=",
+  "dgSpecHash": "AhZhRr+FPag=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\Lab Project\\Demos\\Development\\SECloud\\SECloud\\SECloud.csproj",
+  "projectFilePath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\SECloud\\SECloud\\SECloud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ARNAV\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\ARNAV\\.nuget\\packages\\azure.storage.blobs\\12.22.2\\azure.storage.blobs.12.22.2.nupkg.sha512",
