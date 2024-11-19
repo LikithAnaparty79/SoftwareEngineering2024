@@ -70,7 +70,7 @@
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="auto"/>
                 </Grid.ColumnDefinitions>
-                <Button Grid.Column="1" Height="30" Content="Browse Folder"
+                <Button Grid.Column="1" Height="30" Content=" Browse Folder "
                     Command="{Binding BrowseFoldersCommand}" 
                     Style="{StaticResource DefaultButtonStyle}" 
                     Background="#DFB6B2" Foreground="Black">
@@ -98,7 +98,7 @@
 
                 <Grid Grid.Column="0">
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="588"/>
                         <RowDefinition Height="Auto"/>
                     </Grid.RowDefinitions>
 
@@ -132,19 +132,19 @@
                                 <RowDefinition Height="Auto"/>
                                 </Grid.RowDefinitions>
 
-                            <TextBlock Grid.Row="0" Grid.Column="0" Text="Name:" FontWeight="SemiBold" Margin="0,0,5,0"/>
+                            <TextBlock Grid.Row="0" Grid.Column="0" Text=" Name:" FontWeight="SemiBold" Margin="0,0,5,0"/>
                             <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding SelectedNode.Name}" />
 
-                            <TextBlock Grid.Row="1" Grid.Column="0" Text="Size (bytes):" FontWeight="SemiBold" Margin="0,0,5,0"/>
+                            <TextBlock Grid.Row="1" Grid.Column="0" Text=" Size (bytes):" FontWeight="SemiBold" Margin="0,0,5,0"/>
                             <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedNode.Size}" />
 
-                            <TextBlock Grid.Row="2" Grid.Column="0" Text="File Path:" FontWeight="SemiBold" Margin="0,0,5,0"/>
+                            <TextBlock Grid.Row="2" Grid.Column="0" Text=" File Path:" FontWeight="SemiBold" Margin="0,0,5,0"/>
                             <TextBlock Grid.Row="2" Grid.Column="1" Text="{Binding SelectedNode.FullFilePath}" />
 
-                            <TextBlock Grid.Row="3" Grid.Column="0" Text="IP Address:" FontWeight="SemiBold" Margin="0,0,5,0"/>
+                            <TextBlock Grid.Row="3" Grid.Column="0" Text=" IP Address:" FontWeight="SemiBold" Margin="0,0,5,0"/>
                             <TextBlock Grid.Row="3" Grid.Column="1" Text="{Binding SelectedNode.IpAddress}" />
 
-                            <TextBlock Grid.Row="4" Grid.Column="0" Text="Last Modified:" FontWeight="SemiBold" Margin="0,0,5,0"/>
+                            <TextBlock Grid.Row="4" Grid.Column="0" Text=" Last Modified:" FontWeight="SemiBold" Margin="0,0,5,0"/>
                             <TextBlock Grid.Row="4" Grid.Column="1" Text="{Binding SelectedNode.LastModified}" />
                             </Grid>
                     </StackPanel>
