@@ -14,7 +14,7 @@ using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq.Expressions;
 using Screenshare;
-
+using ChatApplication;
 
 namespace Dashboard
 {
@@ -32,6 +32,8 @@ namespace Dashboard
         public ObservableCollection<UserDetails> ClientUserList { get; set; } = new ObservableCollection<UserDetails>();
 
         Screenshare.ScreenShareClient.ScreenshareClient  _screenShareClient = Screenshare.ScreenShareClient.ScreenshareClient.GetInstance();
+
+        ChatApplication.MainViewModel _contentInstance = MainViewModel.GetInstance;
 
         public Client_Dashboard(ICommunicator communicator, string username, string useremail, string pictureURL)
         {
@@ -90,9 +92,9 @@ namespace Dashboard
 
             _screenShareClient.SetUserDetails(username, UserID);
 
-             //WhiteboardGUI.ViewModel.MainPageViewModel WBviewModel = WhiteboardGUI.ViewModel.MainPageViewModel.WhiteboardInstance;
-             //WBviewModel.SetUserDetails(UserName, UserID);
-
+            //WhiteboardGUI.ViewModel.MainPageViewModel WBviewModel = WhiteboardGUI.ViewModel.MainPageViewModel.WhiteboardInstance;
+            //WBviewModel.SetUserDetails(UserName, UserID);
+            _contentInstance.setUserDetails_client(UserName, UserID, UserProfileUrl);
 
 
             Trace.WriteLine("[DashboardServer] sent info to whiteboard client");

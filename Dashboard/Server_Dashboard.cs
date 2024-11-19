@@ -8,6 +8,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using Networking;
 using Networking.Communication;
+using ChatApplication;
 //using FileCloner.Models.NetworkService;
 
 namespace Dashboard
@@ -53,6 +54,8 @@ namespace Dashboard
 
         //public Server _fileClonerInstance = Server.GetServerInstance();
 
+        ChatApplication.MainViewModel _contentInstance = MainViewModel.GetInstance;
+
 
         public Server_Dashboard(ICommunicator communicator, string username, string useremail, string profilePictureUrl)
         {
@@ -88,10 +91,13 @@ namespace Dashboard
                 string[] parts = server_credentials.Split(':');
                 ServerIp = parts[0];
                 ServerPort = parts[1];
-
+                
                 // Notify that server user is ready
                 OnPropertyChanged(nameof(ServerUserList));
             }
+            _communicator.Start(ServerIp, ServerPort);
+
+            _contentInstance.setUserDetails_server(UserName, ProfilePictureUrl);
             Trace.WriteLine("[DashboardServer] started server");
             return server_credentials;
         }

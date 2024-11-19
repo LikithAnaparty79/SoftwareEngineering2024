@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\Networking.csproj": {}
+    "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj": {}
   },
   "projects": {
-    "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\Networking.csproj": {
+    "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\Networking.csproj",
+        "projectUniqueName": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj",
         "projectName": "Networking",
-        "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\Networking.csproj",
-        "packagesPath": "C:\\Users\\sabar\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\obj\\",
+        "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj",
+        "packagesPath": "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sabar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gopal Pallakonda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

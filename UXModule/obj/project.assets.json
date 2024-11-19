@@ -1759,10 +1759,27 @@
           "Microsoft.WindowsDesktop.App.WPF"
         ]
       },
+      "Client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Networking": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Client.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "Dashboard/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Client": "1.0.0",
           "Google.Apis": "1.68.0",
           "Google.Apis.Auth": "1.68.0",
           "LiveCharts.Wpf": "0.9.7",
@@ -5544,6 +5561,11 @@
         "uksivtsosat.nuspec"
       ]
     },
+    "Client/1.0.0": {
+      "type": "project",
+      "path": "../ModuleChat/ModuleChat/Client.csproj",
+      "msbuildProject": "../ModuleChat/ModuleChat/Client.csproj"
+    },
     "Dashboard/1.0.0": {
       "type": "project",
       "path": "../Dashboard/Dashboard.csproj",
@@ -5602,19 +5624,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sabar\\.nuget\\packages\\": {}
+    "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\UXModule\\UXModule.csproj",
+      "projectUniqueName": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\UXModule.csproj",
       "projectName": "UXModule",
-      "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\UXModule\\UXModule.csproj",
-      "packagesPath": "C:\\Users\\sabar\\.nuget\\packages\\",
-      "outputPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\UXModule\\obj\\",
+      "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\UXModule.csproj",
+      "packagesPath": "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sabar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gopal Pallakonda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5628,20 +5650,20 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Dashboard\\Dashboard.csproj": {
-              "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Dashboard\\Dashboard.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Dashboard.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Dashboard.csproj"
             },
-            "C:\\SoftwareEnGG\\SoftwareEngineering2024\\FileCloner\\FileCloner.csproj": {
-              "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\FileCloner\\FileCloner.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileCloner.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileCloner.csproj"
             },
-            "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\Networking.csproj": {
-              "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Networking\\Networking.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj"
             },
-            "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Screenshare\\Screenshare.csproj": {
-              "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\Screenshare\\Screenshare.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Screenshare\\Screenshare.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Screenshare\\Screenshare.csproj"
             },
-            "C:\\SoftwareEnGG\\SoftwareEngineering2024\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "C:\\SoftwareEnGG\\SoftwareEngineering2024\\ViewModel\\ViewModel.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\ViewModel\\ViewModel.csproj"
             }
           }
         }
@@ -5729,7 +5751,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
