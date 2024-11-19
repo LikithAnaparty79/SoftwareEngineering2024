@@ -15,3 +15,21 @@ C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Updater\obj\Debug\n
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Updater\obj\Debug\net8.0-windows\refint\Updater.dll
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Updater\obj\Debug\net8.0-windows\Updater.pdb
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Updater\obj\Debug\net8.0-windows\ref\Updater.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\Updater.deps.json
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\Updater.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\Updater.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\Networking.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\ToolInterface.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\Networking.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\bin\Debug\net8.0-windows\ToolInterface.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.csproj.AssemblyReference.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.AssemblyInfoInputs.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.AssemblyInfo.cs
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.sourcelink.json
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.csproj.Up2Date
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\refint\Updater.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\Updater.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Updater\obj\Debug\net8.0-windows\ref\Updater.dll

@@ -21,3 +21,19 @@ C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Content\obj\Debug\n
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Content\obj\Debug\net8.0-windows\refint\Content.dll
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Content\obj\Debug\net8.0-windows\Content.pdb
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Content\obj\Debug\net8.0-windows\ref\Content.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\bin\Debug\net8.0-windows\Content.deps.json
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\bin\Debug\net8.0-windows\Content.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\bin\Debug\net8.0-windows\Content.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\bin\Debug\net8.0-windows\Networking.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\bin\Debug\net8.0-windows\Networking.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.csproj.AssemblyReference.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.AssemblyInfoInputs.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.AssemblyInfo.cs
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.csproj.CoreCompileInputs.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.sourcelink.json
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.csproj.Up2Date
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\refint\Content.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\Content.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Content\obj\Debug\net8.0-windows\ref\Content.dll

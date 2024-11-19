@@ -15,6 +15,7 @@ using System.ComponentModel;
 using System.Linq.Expressions;
 using Screenshare;
 using Updater;
+using Content.ChatViewModel;
 
 namespace Dashboard
 {
@@ -33,6 +34,8 @@ namespace Dashboard
         Screenshare.ScreenShareClient.ScreenshareClient  _screenShareClient = Screenshare.ScreenShareClient.ScreenshareClient.GetInstance();
 
         private readonly Updater.Client _updaterClient = Updater.Client.GetClientInstance();
+
+         MainViewModel _contentInstance = MainViewModel.GetInstance;
 
         public Client_Dashboard(ICommunicator communicator, string username, string useremail, string pictureURL)
         {
@@ -90,6 +93,8 @@ namespace Dashboard
             Trace.WriteLine("[DashboardClient] sent user info to server");
 
             _screenShareClient.SetUserDetails(username, UserID);
+
+            _contentInstance.SetUserDetails_client(UserName, UserID, UserProfileUrl);
 
              //WhiteboardGUI.ViewModel.MainPageViewModel WBviewModel = WhiteboardGUI.ViewModel.MainPageViewModel.WhiteboardInstance;
              //WBviewModel.SetUserDetails(UserName, UserID);

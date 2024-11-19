@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\uxmodule\\views\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\chatpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\uxmodule\\views\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\chatpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1194CD-06FF-4DAF-B77F-9DFB8C31439B}|Networking\\Networking.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\networking\\communicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1194CD-06FF-4DAF-B77F-9DFB8C31439B}|Networking\\Networking.csproj|solutionrelative:networking\\communicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\dashboard\\client_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\client_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\dashboard\\server_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\server_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\booltoalignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\booltoalignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\booltovisibiltyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\booltovisibiltyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatviewmodel\\emptystringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatviewmodel\\emptystringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\uxmodule\\views\\fileclonerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\fileclonerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1194CD-06FF-4DAF-B77F-9DFB8C31439B}|Networking\\Networking.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\networking\\communication\\communicatorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1194CD-06FF-4DAF-B77F-9DFB8C31439B}|Networking\\Networking.csproj|solutionrelative:networking\\communication\\communicatorclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\uxmodule\\views\\chatpage.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CEC5659-2D01-4F4E-BDA6-7957E27A099B}|UXModule\\UXModule.csproj|solutionrelative:uxmodule\\views\\chatpage.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B650E36-A2DE-4CE7-ABAA-144CBAAD7E56}|Screenshare\\Screenshare.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\screenshare\\screenshareclient\\screenshareclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B650E36-A2DE-4CE7-ABAA-144CBAAD7E56}|Screenshare\\Screenshare.csproj|solutionrelative:screenshare\\screenshareclient\\screenshareclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8161D20A-A842-4DB3-9B61-CF822C81B2F2}|FileCloner\\FileCloner.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\filecloner\\fileclonerlogging\\fileclonerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8161D20A-A842-4DB3-9B61-CF822C81B2F2}|FileCloner\\FileCloner.csproj|solutionrelative:filecloner\\fileclonerlogging\\fileclonerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\dashboard\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\dashboard\\localservercodereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\localservercodereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\dashboard\\applicationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997C3B5B-99D0-404D-A5E3-FBA617685ABC}|Dashboard\\Dashboard.csproj|solutionrelative:dashboard\\applicationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\segit\\content\\content.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{561C84CA-7FD2-4AD3-AF0A-4DDB56C043AC}|Content\\Content.csproj|solutionrelative:content\\content.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommunicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\CommunicationFactory.cs",
+              "RelativeDocumentMoniker": "Networking\\CommunicationFactory.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\CommunicationFactory.cs",
+              "RelativeToolTip": "Networking\\CommunicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:07:28.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Client_Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Client_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Client_Dashboard.cs",
+              "RelativeToolTip": "Dashboard\\Client_Dashboard.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAWwGAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:16:49.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Server_Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard\\Server_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Server_Dashboard.cs",
+              "RelativeToolTip": "Dashboard\\Server_Dashboard.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAIAwwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:21:46.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:47:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ChatPage.xaml",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\ChatPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\ChatPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T12:06:07.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoolToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\BoolToBrushConverter.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\BoolToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\BoolToBrushConverter.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\BoolToBrushConverter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBMAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:46:51.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\ChatPage.xaml.cs",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ChatPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\ChatPage.xaml.cs",
+              "RelativeToolTip": "UXModule\\Views\\ChatPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:18:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoolToAlignmentConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\BoolToAlignmentConverter.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\BoolToAlignmentConverter.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\BoolToAlignmentConverter.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\BoolToAlignmentConverter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:45:43.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:39:11.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\NullToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:40:18.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoolToVisibiltyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\BoolToVisibiltyConverter.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\BoolToVisibiltyConverter.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\BoolToVisibiltyConverter.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\BoolToVisibiltyConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:47:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmptyStringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\EmptyStringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Content\\ChatViewModel\\EmptyStringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatViewModel\\EmptyStringToVisibilityConverter.cs",
+              "RelativeToolTip": "Content\\ChatViewModel\\EmptyStringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:40:20.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatServer.cs",
+              "RelativeDocumentMoniker": "Content\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatServer.cs",
+              "RelativeToolTip": "Content\\ChatServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:04:08.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Content\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatMessage.cs",
+              "RelativeToolTip": "Content\\ChatMessage.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:13:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatClient.cs",
+              "RelativeDocumentMoniker": "Content\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\ChatClient.cs",
+              "RelativeToolTip": "Content\\ChatClient.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAIBJwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:58:11.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileClonerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\FileClonerPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\FileClonerPage.xaml",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\FileClonerPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\FileClonerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T14:15:11.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CommunicatorClient.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Communication\\CommunicatorClient.cs",
+              "RelativeDocumentMoniker": "Networking\\Communication\\CommunicatorClient.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Communication\\CommunicatorClient.cs",
+              "RelativeToolTip": "Networking\\Communication\\CommunicatorClient.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAtwKMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:19:38.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\ChatPage.xaml",
+              "RelativeDocumentMoniker": "UXModule\\Views\\ChatPage.xaml",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\UXModule\\Views\\ChatPage.xaml",
+              "RelativeToolTip": "UXModule\\Views\\ChatPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T13:42:38.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScreenShareClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Screenshare\\ScreenShareClient\\ScreenShareClientViewModel.cs",
+              "RelativeDocumentMoniker": "Screenshare\\ScreenShareClient\\ScreenShareClientViewModel.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Screenshare\\ScreenShareClient\\ScreenShareClientViewModel.cs",
+              "RelativeToolTip": "Screenshare\\ScreenShareClient\\ScreenShareClientViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:37:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAF0JAAAAAAAAAAAmwGoJAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-19T12:48:06.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LocalServerCodeReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\LocalServerCodeReceiver.cs",
+              "RelativeDocumentMoniker": "Dashboard\\LocalServerCodeReceiver.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\LocalServerCodeReceiver.cs",
+              "RelativeToolTip": "Dashboard\\LocalServerCodeReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:21:45.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Dashboard\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\UserDetails.cs",
+              "RelativeToolTip": "Dashboard\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:21:47.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileClonerLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "RelativeDocumentMoniker": "FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "RelativeToolTip": "FileCloner\\FileClonerLogging\\FileClonerLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:22:00.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationPage.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\ApplicationPage.cs",
+              "RelativeDocumentMoniker": "Dashboard\\ApplicationPage.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\ApplicationPage.cs",
+              "RelativeToolTip": "Dashboard\\ApplicationPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:21:41.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Content.csproj",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\Content.csproj",
+              "RelativeDocumentMoniker": "Content\\Content.csproj",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Content\\Content.csproj",
+              "RelativeToolTip": "Content\\Content.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T12:21:03.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

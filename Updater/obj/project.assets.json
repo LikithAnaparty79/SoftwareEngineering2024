@@ -1136,19 +1136,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sagar\\.nuget\\packages\\": {}
+    "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Updater\\Updater.csproj",
+      "projectUniqueName": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Updater\\Updater.csproj",
       "projectName": "Updater",
-      "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Updater\\Updater.csproj",
-      "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Updater\\obj\\",
+      "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Updater\\Updater.csproj",
+      "packagesPath": "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Updater\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gopal Pallakonda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1162,11 +1162,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Networking\\Networking.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Networking\\Networking.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj"
             },
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\SoftwareEngineering2024-UpdaterNew\\ToolInterface\\ToolInterface.csproj"
             }
           }
         }
@@ -1201,7 +1201,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

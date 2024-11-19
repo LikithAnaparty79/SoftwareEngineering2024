@@ -6,9 +6,11 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using Content.ChatViewModel;
 using Networking;
 using Networking.Communication;
-using Updater;
+using Content.ChatViewModel;
+using Updater; 
 //using FileCloner.Models.NetworkService;
 
 namespace Dashboard
@@ -55,6 +57,8 @@ namespace Dashboard
         //public Server _fileClonerInstance = Server.GetServerInstance();
         public Updater.Server _updaterServerInstance = Updater.Server.GetServerInstance();
 
+        MainViewModel _contentInstance = MainViewModel.GetInstance;
+
 
         public Server_Dashboard(ICommunicator communicator, string username, string useremail, string profilePictureUrl)
         {
@@ -94,6 +98,11 @@ namespace Dashboard
                 // Notify that server user is ready
                 OnPropertyChanged(nameof(ServerUserList));
             }
+
+            ICommunicator _extracommunicator = CommunicationFactory.GetCommunicator(isClientSide:true);
+            _extracommunicator.Start(ServerIp, ServerPort);
+
+            _contentInstance.SetUserDetails_server(UserName, ProfilePictureUrl);
             Trace.WriteLine("[DashboardServer] started server");
             return server_credentials;
         }

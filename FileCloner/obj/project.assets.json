@@ -1164,19 +1164,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sagar\\.nuget\\packages\\": {}
+    "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\FileCloner\\FileCloner.csproj",
+      "projectUniqueName": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileCloner.csproj",
       "projectName": "FileCloner",
-      "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\FileCloner\\FileCloner.csproj",
-      "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\FileCloner\\obj\\",
+      "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileCloner.csproj",
+      "packagesPath": "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gopal Pallakonda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1190,8 +1190,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Networking\\Networking.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Networking\\Networking.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj"
             }
           }
         }
@@ -1235,7 +1235,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

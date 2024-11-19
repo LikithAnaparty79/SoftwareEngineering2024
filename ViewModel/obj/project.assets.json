@@ -1352,6 +1352,22 @@
           "lib/netstandard1.3/System.Security.Cryptography.Primitives.dll": {}
         }
       },
+      "System.Security.Cryptography.ProtectedData/9.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.Security.Cryptography.ProtectedData.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Security.Cryptography.ProtectedData.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
       "System.Security.Cryptography.X509Certificates/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1565,8 +1581,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Dashboard": "1.0.0",
-          "Networking": "1.0.0"
+          "Networking": "1.0.0",
+          "System.Security.Cryptography.ProtectedData": "9.0.0",
+          "System.Windows.Extensions": "9.0.0",
+          "UKSIVTSOSAT": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Content.dll": {}
@@ -1579,6 +1597,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Content": "1.0.0",
           "Google.Apis": "1.68.0",
           "Google.Apis.Auth": "1.68.0",
           "LiveCharts.Wpf": "0.9.7",
@@ -1587,6 +1606,7 @@
           "Screenshare": "1.0.0",
           "SharpDX.Direct3D11": "4.2.0",
           "System.Drawing.Common": "9.0.0",
+          "UKSIVTSOSAT": "1.0.0",
           "Updater": "1.0.0"
         },
         "compile": {
@@ -4518,6 +4538,40 @@
         "system.security.cryptography.primitives.nuspec"
       ]
     },
+    "System.Security.Cryptography.ProtectedData/9.0.0": {
+      "sha512": "CJW+x/F6fmRQ7N6K8paasTw9PDZp4t7G76UjGNlSDgoHPF0h08vTzLYbLZpOLEJSg35d5wy2jCXGo84EN05DpQ==",
+      "type": "package",
+      "path": "system.security.cryptography.protecteddata/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Security.Cryptography.ProtectedData.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Security.Cryptography.ProtectedData.targets",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net462/System.Security.Cryptography.ProtectedData.dll",
+        "lib/net462/System.Security.Cryptography.ProtectedData.xml",
+        "lib/net8.0/System.Security.Cryptography.ProtectedData.dll",
+        "lib/net8.0/System.Security.Cryptography.ProtectedData.xml",
+        "lib/net9.0/System.Security.Cryptography.ProtectedData.dll",
+        "lib/net9.0/System.Security.Cryptography.ProtectedData.xml",
+        "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll",
+        "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "system.security.cryptography.protecteddata.9.0.0.nupkg.sha512",
+        "system.security.cryptography.protecteddata.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
     "System.Security.Cryptography.X509Certificates/4.3.0": {
       "sha512": "t2Tmu6Y2NtJ2um0RtcuhP7ZdNNxXEgUm2JeoA/0NvlMjAhKCnM1NX07TDl3244mVp3QU6LPEhT3HTtH1uF7IYw==",
       "type": "package",
@@ -4995,7 +5049,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Content >= 1.0.0",
       "Dashboard >= 1.0.0",
       "FileCloner >= 1.0.0",
       "Google.Apis >= 1.68.0",
@@ -5006,24 +5059,26 @@
       "SharpDX >= 4.2.0",
       "SharpDX.Direct3D11 >= 4.2.0",
       "System.Drawing.Common >= 9.0.0",
+      "System.Security.Cryptography.ProtectedData >= 9.0.0",
       "System.Text.RegularExpressions >= 4.3.1",
+      "System.Windows.Extensions >= 9.0.0",
       "Updater >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sagar\\.nuget\\packages\\": {}
+    "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\ViewModel\\ViewModel.csproj",
-      "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\ViewModel\\obj\\",
+      "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\ViewModel\\ViewModel.csproj",
+      "packagesPath": "C:\\Users\\Gopal Pallakonda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gopal Pallakonda\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5037,20 +5092,17 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Content\\Content.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Content\\Content.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Dashboard.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Dashboard\\Dashboard.csproj"
             },
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Dashboard\\Dashboard.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Dashboard\\Dashboard.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileCloner.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\FileCloner\\FileCloner.csproj"
             },
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\FileCloner\\FileCloner.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\FileCloner\\FileCloner.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Networking\\Networking.csproj"
             },
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Networking\\Networking.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Networking\\Networking.csproj"
-            },
-            "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Updater\\Updater.csproj": {
-              "projectPath": "C:\\Users\\sagar\\Downloads\\SoftwareEngineering2024-final\\SoftwareEngineering2024-final\\Updater\\Updater.csproj"
+            "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Updater\\Updater.csproj": {
+              "projectPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEGIT\\Updater\\Updater.csproj"
             }
           }
         }
@@ -5098,9 +5150,17 @@
             "target": "Package",
             "version": "[9.0.0, )"
           },
+          "System.Security.Cryptography.ProtectedData": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
           "System.Text.RegularExpressions": {
             "target": "Package",
             "version": "[4.3.1, )"
+          },
+          "System.Windows.Extensions": {
+            "target": "Package",
+            "version": "[9.0.0, )"
           }
         },
         "imports": [
@@ -5119,7 +5179,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

@@ -58,3 +58,28 @@ C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Dashboard\obj\Debug
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Dashboard\obj\Debug\net8.0-windows\refint\Dashboard.dll
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Dashboard\obj\Debug\net8.0-windows\Dashboard.pdb
 C:\Users\Asus\OneDrive\Desktop\SoftwareEngineering2024-final\Dashboard\obj\Debug\net8.0-windows\ref\Dashboard.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Dashboard.deps.json
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Dashboard.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Content.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Networking.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Screenshare.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\SECloud.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\ToolInterface.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Updater.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Content.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Networking.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Screenshare.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\Updater.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\bin\Debug\net8.0-windows\ToolInterface.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.AssemblyReference.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfoInputs.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.AssemblyInfo.cs
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.sourcelink.json
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.csproj.Up2Date
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\refint\Dashboard.dll
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\Dashboard.pdb
+C:\Users\Gopal Pallakonda\OneDrive\Documents\SEGIT\Dashboard\obj\Debug\net8.0-windows\ref\Dashboard.dll

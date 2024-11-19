@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\contentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\contentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\contentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\contentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\OneDrive\\Documents\\ChatApp 4.0 (2)\\ChatApp 4.0 (4)\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE7CC8-C4C2-4158-8A46-F7093D53E314}|..\\SoftwareEngineering2024-Network\\Network\\Network.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\softwareengineering2024-network\\network\\communicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE7CC8-C4C2-4158-8A46-F7093D53E314}|..\\SoftwareEngineering2024-Network\\Network\\Network.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\softwareengineering2024-network\\network\\communication\\communicatorserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EE7CC8-C4C2-4158-8A46-F7093D53E314}|..\\SoftwareEngineering2024-Network\\Network\\Network.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\softwareengineering2024-network\\network\\network.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|c:\\users\\gopal pallakonda\\onedrive\\documents\\sefresh\\chatapp 4.0\\modulechat\\modulechat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1A388F6-15E7-47D8-80A9-BFE702635172}|ModuleChat\\Client.csproj|solutionrelative:modulechat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ZTF8D4ZB\\MainWindow.xaml[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ChatClient.cs",
+              "RelativeDocumentMoniker": "ModuleChat\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ChatClient.cs",
+              "RelativeToolTip": "ModuleChat\\ChatClient.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:58:33.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ModuleChat\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\MainViewModel.cs",
+              "RelativeToolTip": "ModuleChat\\MainViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:40:18.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ChatServer.cs",
+              "RelativeDocumentMoniker": "ModuleChat\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ChatServer.cs",
+              "RelativeToolTip": "ModuleChat\\ChatServer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:59:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommunicatorServer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Documents\\ChatApp 4.0 (2)\\ChatApp 4.0 (4)\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\USER\\OneDrive\\Documents\\ChatApp 4.0 (2)\\ChatApp 4.0 (4)\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Documents\\ChatApp 4.0 (2)\\ChatApp 4.0 (4)\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\USER\\OneDrive\\Documents\\ChatApp 4.0 (2)\\ChatApp 4.0 (4)\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:19:04.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\Client.csproj",
+              "RelativeDocumentMoniker": "ModuleChat\\Client.csproj",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\Client.csproj",
+              "RelativeToolTip": "ModuleChat\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T03:16:56.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ModuleChat\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ChatMessage.cs",
+              "RelativeToolTip": "ModuleChat\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:51:48.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ContentPage.xaml",
+              "RelativeDocumentMoniker": "ModuleChat\\ContentPage.xaml",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ContentPage.xaml",
+              "RelativeToolTip": "ModuleChat\\ContentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T22:26:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ContentPage.xaml.cs",
+              "RelativeDocumentMoniker": "ModuleChat\\ContentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\ContentPage.xaml.cs",
+              "RelativeToolTip": "ModuleChat\\ContentPage.xaml.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAawAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:30:11.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommunicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\CommunicationFactory.cs",
+              "RelativeDocumentMoniker": "..\\SoftwareEngineering2024-Network\\Network\\CommunicationFactory.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\CommunicationFactory.cs",
+              "RelativeToolTip": "..\\SoftwareEngineering2024-Network\\Network\\CommunicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:43:06.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommunicatorServer.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "RelativeDocumentMoniker": "..\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "RelativeToolTip": "..\\SoftwareEngineering2024-Network\\Network\\Communication\\CommunicatorServer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIAwwF8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:37:43.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Network.csproj",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Network.csproj",
+              "RelativeDocumentMoniker": "..\\SoftwareEngineering2024-Network\\Network\\Network.csproj",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\SoftwareEngineering2024-Network\\Network\\Network.csproj",
+              "RelativeToolTip": "..\\SoftwareEngineering2024-Network\\Network\\Network.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T03:16:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoolToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\BoolToBrushConverter.cs",
+              "RelativeDocumentMoniker": "ModuleChat\\BoolToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\BoolToBrushConverter.cs",
+              "RelativeToolTip": "ModuleChat\\BoolToBrushConverter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:53:04.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml[1].cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ZTF8D4ZB\\MainWindow.xaml[1].cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\USER\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ZTF8D4ZB\\MainWindow.xaml[1].cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ZTF8D4ZB\\MainWindow.xaml[1].cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\USER\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\ZTF8D4ZB\\MainWindow.xaml[1].cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:40:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\App.xaml",
+              "RelativeDocumentMoniker": "ModuleChat\\App.xaml",
+              "ToolTip": "C:\\Users\\Gopal Pallakonda\\OneDrive\\Documents\\SEFresh\\ChatApp 4.0\\ModuleChat\\ModuleChat\\App.xaml",
+              "RelativeToolTip": "ModuleChat\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T07:48:53.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
