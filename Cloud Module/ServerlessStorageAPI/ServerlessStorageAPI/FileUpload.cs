@@ -52,7 +52,14 @@ public class FileUpload
                 Environment.GetEnvironmentVariable(ConnectionStringValue),
                 team);
 
-            // await containerClient.CreateIfNotExistsAsync();
+            // Check if the container exists
+            if (!await containerClient.ExistsAsync())
+            {
+                logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundResponse;
+            }
 
             // Check if the request contains a valid "multipart/form-data" content type.
             if (!req.Headers.TryGetValues("Content-Type", out IEnumerable<string>? contentTypes) || !contentTypes.First().Contains("multipart/form-data"))
@@ -145,7 +152,7 @@ public static class MultipartRequestHelper
         // Extract the boundary value, removing any surrounding quotes.
         if (!string.IsNullOrEmpty(boundaryElement))
         {
-            return boundaryElement.Substring("boundary=".Length).Trim('"');
+            return boundaryElement["boundary=".Length..].Trim('"');
         }
         else
         {

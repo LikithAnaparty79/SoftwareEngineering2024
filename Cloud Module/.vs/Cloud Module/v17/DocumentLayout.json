@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\filedownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05B65DB6-A5D7-44F9-B0E7-C9410C658274}|ServerlessStorageAPI\\CloudUnitTesting\\CloudUnitTesting.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\cloudunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05B65DB6-A5D7-44F9-B0E7-C9410C658274}|ServerlessStorageAPI\\CloudUnitTesting\\CloudUnitTesting.csproj|solutionrelative:serverlessstorageapi\\cloudunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\fileupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\fileupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9411A74C-4106-42DF-8F1A-799EA5090094}|SECloud\\SECloud\\SECloud.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\secloud\\secloud\\services\\cloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9411A74C-4106-42DF-8F1A-799EA5090094}|SECloud\\SECloud\\SECloud.csproj|solutionrelative:secloud\\secloud\\services\\cloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\bloblist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\bloblist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\jsonsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\jsonsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\configretrieve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\configretrieve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|c:\\users\\arnav\\desktop\\software engineering\\se project\\cloud module\\serverlessstorageapi\\serverlessstorageapi\\filedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5501EC16-8B9E-4995-8339-234C8F5BCB1E}|ServerlessStorageAPI\\ServerlessStorageAPI\\ServerlessStorageAPI.csproj|solutionrelative:serverlessstorageapi\\serverlessstorageapi\\filedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpload.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpload.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpload.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAIAwwJoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:48:03.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpdate.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpdate.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpdate.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileUpdate.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wEYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:48:02.412Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileDownload.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileDownload.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileDownload.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileDownload.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileDownload.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAawEgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:48:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobList.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\BlobList.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\BlobList.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\BlobList.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\BlobList.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwDUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:40:53.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsonSearch.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\JsonSearch.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\JsonSearch.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\JsonSearch.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\JsonSearch.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAawJYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:03:30.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileDelete.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileDelete.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileDelete.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\FileDelete.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\FileDelete.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:03:13.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigRetrieve.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\ConfigRetrieve.cs",
+              "RelativeDocumentMoniker": "ServerlessStorageAPI\\ServerlessStorageAPI\\ConfigRetrieve.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\ServerlessStorageAPI\\ConfigRetrieve.cs",
+              "RelativeToolTip": "ServerlessStorageAPI\\ServerlessStorageAPI\\ConfigRetrieve.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:02:55.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ServerlessStorageAPI\\CloudUnitTesting\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\ServerlessStorageAPI\\CloudUnitTesting\\UnitTest1.cs",
               "RelativeToolTip": "ServerlessStorageAPI\\CloudUnitTesting\\UnitTest1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPICAAAAAAAAAADgv/kCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:37:40.106Z",
+              "WhenOpened": "2024-11-19T09:24:03.827Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudService.cs",
+              "DocumentMoniker": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\SECloud\\SECloud\\Services\\CloudService.cs",
+              "RelativeDocumentMoniker": "SECloud\\SECloud\\Services\\CloudService.cs",
+              "ToolTip": "C:\\Users\\ARNAV\\Desktop\\Software Engineering\\SE Project\\Cloud Module\\SECloud\\SECloud\\Services\\CloudService.cs",
+              "RelativeToolTip": "SECloud\\SECloud\\Services\\CloudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:03:51.524Z"
             }
           ]
         }

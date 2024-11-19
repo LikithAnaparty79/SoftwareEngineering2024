@@ -51,7 +51,15 @@ public class BlobList
                 Environment.GetEnvironmentVariable(ConnectionStringValue),
                 team);
 
-            await containerClient.CreateIfNotExistsAsync();
+            // Check if the container exists
+            if (!await containerClient.ExistsAsync())
+            {
+                logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundResponse;
+            }
+
             var blobList = new List<string>();
 
             // List blobs in the container

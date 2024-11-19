@@ -65,9 +65,17 @@ public class FileUpdate
             // Initialize the BlobServiceClient using the connection string
             var blobServiceClient = new BlobServiceClient(connectionString);
 
-            // Access the container for the specified team and create it if it doesn't exist
+            // Access the container for the specified team
             BlobContainerClient containerClient = blobServiceClient.GetBlobContainerClient(team.ToLowerInvariant());
-            await containerClient.CreateIfNotExistsAsync();
+
+            // Check if the container exists
+            if (!await containerClient.ExistsAsync())
+            {
+                logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundResponse;
+            }
 
             // Retrieve the BlobClient for the specified file in the team container
             BlobClient blobClient = containerClient.GetBlobClient(filename);

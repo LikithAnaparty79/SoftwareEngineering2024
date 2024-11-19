@@ -1,7 +1,7 @@
 ﻿/******************************************************************************
  * Filename    = FileDelete.cs
  *
- * Author      = Arnav Rajesh Kadu
+ * Author      = Pranav Guruprasad Rao
  *
  * Product     = Cloud
  * 
@@ -65,6 +65,15 @@ public class FileDelete
 
             // Access the container for the specified team (assumed to be the container name)
             BlobContainerClient containerClient = blobServiceClient.GetBlobContainerClient(team.ToLowerInvariant());
+
+            // Check if the container exists
+            if (!await containerClient.ExistsAsync())
+            {
+                logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundResponse;
+            }
 
             // Retrieve the BlobClient for the specified file in the team container
             BlobClient blobClient = containerClient.GetBlobClient(filename);

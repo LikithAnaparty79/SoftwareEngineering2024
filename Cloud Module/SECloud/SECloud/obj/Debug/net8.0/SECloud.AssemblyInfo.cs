@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SECloud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cb50541f02b6b275291e26bf624bb7bdf2e99fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf4d5123a060a81477676ff1dd1b42109470c0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SECloud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SECloud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

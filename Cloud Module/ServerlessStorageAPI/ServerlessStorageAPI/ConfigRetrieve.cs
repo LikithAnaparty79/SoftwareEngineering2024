@@ -71,6 +71,15 @@ public class ConfigRetrieve
             _logger.LogInformation($"Attempting to get container client for team: {team}");
             BlobContainerClient containerClient = _blobServiceClient.GetBlobContainerClient(team);
 
+            // Check if the container exists
+            if (!await containerClient.ExistsAsync())
+            {
+                _logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundResponse;
+            }
+
             _logger.LogInformation("Attempting to get blob client for configFile.json");
             BlobClient configBlobClient = containerClient.GetBlobClient("configFile.json");
 

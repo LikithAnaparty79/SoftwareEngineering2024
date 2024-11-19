@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "FA1": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7026",
-      "launchBrowser": false
-    }
-  }
-}

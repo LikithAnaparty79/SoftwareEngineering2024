@@ -64,7 +64,14 @@ public class FileDownload
             var blobServiceClient = new BlobServiceClient(connectionString);
             BlobContainerClient containerClient = blobServiceClient.GetBlobContainerClient(team.ToLowerInvariant());
 
-            await containerClient.CreateIfNotExistsAsync();
+            // Check if the container exists
+            if (!await containerClient.ExistsAsync())
+            {
+                logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundContainerResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundContainerResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundContainerResponse;
+            }
 
             // Get a reference to the specific blob (file) using the filename.
             BlobClient blobClient = containerClient.GetBlobClient(filename);

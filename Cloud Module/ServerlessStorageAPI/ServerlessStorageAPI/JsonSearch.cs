@@ -32,7 +32,6 @@ public class JsonSearch
 {
     private readonly BlobServiceClient _blobServiceClient;
     private readonly ILogger<JsonSearch> _logger;
-    private readonly IConfiguration _configuration;
 
     /// <summary>
     /// Initializes a new instance of the JsonSearch class.
@@ -40,11 +39,10 @@ public class JsonSearch
     /// <param name="blobServiceClient">Client to interact with Azure Blob Storage.</param>
     /// <param name="logger">Logger to record log messages.</param>
     /// <param name="configuration">Configuration for accessing settings.</param>
-    public JsonSearch(BlobServiceClient blobServiceClient, ILogger<JsonSearch> logger, IConfiguration configuration)
+    public JsonSearch(BlobServiceClient blobServiceClient, ILogger<JsonSearch> logger)
     {
         _blobServiceClient = blobServiceClient;
         _logger = logger;
-        _configuration = configuration;
     }
 
     /// <summary>
@@ -82,9 +80,10 @@ public class JsonSearch
             // Check if the container exists
             if (!await containerClient.ExistsAsync())
             {
-                HttpResponseData notFound = req.CreateResponse(HttpStatusCode.NotFound);
-                await notFound.WriteStringAsync($"Container '{team}' not found");
-                return notFound;
+                _logger.LogWarning($"Container {team} does not exist.");
+                HttpResponseData notFoundResponse = req.CreateResponse(HttpStatusCode.NotFound);
+                await notFoundResponse.WriteStringAsync($"Unable to find team {team} on the Azure Portal.");
+                return notFoundResponse;
             }
 
             var matchingFiles = new List<object>();
@@ -125,8 +124,8 @@ public class JsonSearch
             // Create and return response with matching files
             HttpResponseData response = req.CreateResponse(HttpStatusCode.OK);
             await response.WriteAsJsonAsync(new {
-                searchKey = searchKey,
-                searchValue = searchValue,
+                searchKey,
+                searchValue,
                 matchCount = matchingFiles.Count,
                 matches = matchingFiles
             });
@@ -149,7 +148,7 @@ public class JsonSearch
     /// <param name="searchKey">The key to search for.</param>
     /// <param name="searchValue">The value associated with the key.</param>
     /// <returns>True if the key-value pair is found; otherwise, false.</returns>
-    private bool SearchJsonElement(JsonElement element, string searchKey, string searchValue)
+    private static bool SearchJsonElement(JsonElement element, string searchKey, string searchValue)
     {
         switch (element.ValueKind)
         {
