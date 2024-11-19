@@ -130,7 +130,7 @@ public class Client : INotificationHandler
             }
             catch (Exception ex)
             {
-                _logAction?.Invoke($"[Client] Failed to send summary to {responder} : {ex.Message}");
+                _logAction?.Invoke($"[Client] Summary not sent to {responder} : {ex.Message}");
                 _logger.Log($"[Client] Failed to send summary to {responder} : {ex.Message}", isErrorMessage: true);
             }
         }
@@ -254,6 +254,7 @@ public class Client : INotificationHandler
     public void StopCloning()
     {
         s_requestID++;
+        _responders.Clear();
         _logger.Log($"Stopping Cloning, Increased s_requestID to {s_requestID}");
     }
 
