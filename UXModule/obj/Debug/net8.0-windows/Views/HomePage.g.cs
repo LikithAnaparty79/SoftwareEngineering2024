@@ -31,9 +31,7 @@ using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Shell;
-using UXModule.Views;
 using ViewModel.DashboardViewModel;
-using ViewModel.FileClonerViewModel;
 
 
 namespace UXModule.Views {

@@ -22,7 +22,7 @@ namespace FileCloner.ViewModels;
 /// <summary>
 /// ViewModel for the MainPage, handling file operations, commands, and UI bindings.
 /// </summary>
-partial class MainPageViewModel : ViewModelBase
+public partial class MainPageViewModel : ViewModelBase
 {
     /// <summary>
     /// Constructor for MainPageViewModel - initializes paths, commands, and communication setup.

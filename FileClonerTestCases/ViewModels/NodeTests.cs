@@ -1,7 +1,4 @@
 ﻿using FileCloner.ViewModels;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using UXModule.ViewModel;
 using FileCloner.Models;
 
 namespace FileClonerTestCases;

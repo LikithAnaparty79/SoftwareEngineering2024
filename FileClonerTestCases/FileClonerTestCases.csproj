@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FileCloner\FileCloner.csproj" />
-    <ProjectReference Include="..\UXModule\UXModule.csproj" />
   </ItemGroup>
 
   <ItemGroup>

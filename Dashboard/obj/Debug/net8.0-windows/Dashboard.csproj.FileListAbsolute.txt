@@ -58,3 +58,8 @@ C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\obj\Debug\net8.0
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\obj\Debug\net8.0-windows\refint\Dashboard.dll
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\obj\Debug\net8.0-windows\Dashboard.pdb
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\obj\Debug\net8.0-windows\ref\Dashboard.dll
+C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\bin\Debug\net8.0-windows\FileCloner.deps.json
+C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\bin\Debug\net8.0-windows\FileCloner.runtimeconfig.json
+C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\bin\Debug\net8.0-windows\FileCloner.exe
+C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\bin\Debug\net8.0-windows\FileCloner.dll
+C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\Dashboard\bin\Debug\net8.0-windows\FileCloner.pdb

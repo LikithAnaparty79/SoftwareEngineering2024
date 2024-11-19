@@ -89,6 +89,9 @@ namespace Dashboard
                 ServerIp = parts[0];
                 ServerPort = parts[1];
 
+                ICommunicator _client = CommunicationFactory.GetCommunicator(isClientSide: true); 
+                _client.Start(ServerIp, ServerPort);
+
                 // Notify that server user is ready
                 OnPropertyChanged(nameof(ServerUserList));
             }

@@ -652,7 +652,6 @@ C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\ChatPage.g.cs
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\ClientHomePage.g.cs
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\DashboardPage.g.cs
-C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\FileClonerPage.g.cs
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\HomePage.g.cs
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\LoginPage.g.cs
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\MainPage.g.cs
@@ -670,7 +669,6 @@ C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\AnalyserPage.baml
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\ChatPage.baml
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\DashboardPage.baml
-C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\FileClonerPage.baml
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\LoginPage.baml
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\MainPage.baml
 C:\Mac\Home\Downloads\SEGroup\SoftwareEngineering2024\UXModule\obj\Debug\net8.0-windows\Views\MainWindow.baml

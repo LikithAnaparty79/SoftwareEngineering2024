@@ -31,9 +31,7 @@ using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Shell;
-using UXModule.Views;
 using ViewModel.DashboardViewModel;
-using ViewModel.FileClonerViewModel;
 
 
 namespace UXModule.Views {
@@ -96,7 +94,7 @@ namespace UXModule.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UXModule;V1.0.0.0;component/views/homepage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UXModule;component/views/homepage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\HomePage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

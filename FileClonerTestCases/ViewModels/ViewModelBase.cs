@@ -3,10 +3,6 @@
 // See the LICENSE file in the project root for more information.
 
 using FileCloner.ViewModels;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using UXModule.ViewModel;
-using FileCloner.Models;
 using System.Windows.Threading;
 
 namespace FileClonerTestCases;
