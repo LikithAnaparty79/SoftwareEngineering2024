@@ -107,6 +107,11 @@ public class SendQueueListenerServer
 
             Packet packet = _sendingQueue.Dequeue();
 
+            if (packet == null)
+            {
+                continue;
+            }
+
             // convert packet to string as string can be sent
             string packetString =
                 PacketString.PacketToPacketString(packet);
